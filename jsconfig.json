@@ -1,9 +1,5 @@
 {
     "compilerOptions": {
-<<<<<<< HEAD
         "types": ["node", "cypress"] //This ensures that Cypress types are included and available for autocompletion
-=======
-        "types": ["node", "cypress"], //This ensures that Cypress types are included and available for autocompletion
->>>>>>> a2bdb7e7b52609650d25992513756beae8b481a3
     }
 }
