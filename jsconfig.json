@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "types": ["node", "cypress"] //This ensures that Cypress types are included and available for autocompletion
+    }
+}
